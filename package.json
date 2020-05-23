@@ -1,0 +1,20 @@
+{
+  "name": "SimplilearnReactJs",
+  "version": "1.0.0",
+  "description": "This is the task of reactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek14anandDev/SimplilearnReactJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek14anandDev/SimplilearnReactJs/issues"
+  },
+  "homepage": "https://github.com/abhishek14anandDev/SimplilearnReactJs#readme"
+}

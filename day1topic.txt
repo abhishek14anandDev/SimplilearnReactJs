@@ -1,0 +1,92 @@
+//https://drive.google.com/open?id=1QWo0IHyGuThnTug7E1XLG59OPPzBfZDO
+Day1 (23-May)			Introduction
+=============================================================
+Session Agenda:
+	Web Basics
+	Understand React.js
+	Understand Node.js
+	Software installation
+	IDE
+
+	Introduction javascript
+	Javascript programming
+
+
+Target:		Web Application (Client Side) Development
+Topics:
+	Node.js concepts
+	HTML5, CSS3
+	RWD using Bootstrap
+	ES6 using babel
+	UI Development using React (in detail)
+	Components in detail
+		Functional components using javascript 
+		Class components using babel
+	MongoDB Concepts
+	Web API (RESTful Service) using express.js
+	Consume Web API using React.js
+	Redux
+
+
+Web Development includes Web Application and Web Services ( Web API )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understand Web Application:
+
+
+	It is an application hosted in web server
+	Advantage:
+Web Application available in the network
+Application available round the clock
+Client & Server Architecture
+No additional software required at client	
+
+Two types of web application:
+
+Server Side Web Application
+        It is an application hosted in server, client request using Http Request object and respond back to client using HttpResponse object and render the output
+These applications are developed using technologies .NET, Java, Python, PHP, Node.js etc.,
+
+Client Side Web Application
+       It is an application hosted in server, client request using HttpReqeust object and server respond back to client in the form of UI Application
+These application can also called frontend application or UI Application
+Developed using UI Technologies like Angular, React, backbone above Node.js
+
+
+Web API:
+          It is a RESTful Web Service
+          It is an interoperable source which can interact with database, any application developed using any technology like Java, .NET, PHP, Python, Node and UI Technologies like Angular, React, javascript with ajax call can interact with Web API
+
+
+
+
+
+How to communicate to database using UI Application like React, Angular, Vue, etc.,?
+UI Application cannot interact with database directly, we have to make http call to the web API and Web Api interact with databases
+
+How do react communicate with Web API?
+Using following ways react communicate to database via  Web API
+    Jquery with ajax call
+    window.fetch() method
+    axios library
+
+
+Web Server:
+	It is a centralized software used to host web applications and web services
+
+
