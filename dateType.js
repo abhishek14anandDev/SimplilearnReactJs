@@ -9,4 +9,4 @@ console.log(d.getSeconds());
 console.log(d.getDate());
 console.log(d.getMonth());
 console.log(d.getFullYear());
-console.log(d.getUTCDate());
+console.log(d.getUTCDate()); 
