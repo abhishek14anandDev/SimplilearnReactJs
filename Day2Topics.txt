@@ -1,0 +1,13 @@
+Json 
+	Functions
+	Modules
+	Callbacks
+	FE, IIFE
+	ES6
+	ES6 features
+	Arrow functions
+	Babel installation
+	OOPs using babel
+	Introduction to React
+	Installation of React
+	React Example

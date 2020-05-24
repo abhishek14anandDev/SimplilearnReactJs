@@ -1,0 +1,11 @@
+Array helper methods
+Let and const
+Template literals
+Arrow functoins
+default function parameters
+Rest and spread
+Destructuring
+classes
+promises
+modules
+fetch
