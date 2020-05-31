@@ -10,5 +10,5 @@ class derived extends Base{
     }
 }
 
-export default Base;
-export default derived;
+//export default Base;
+//export default derived;

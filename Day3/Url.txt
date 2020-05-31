@@ -1,0 +1,10 @@
+https://drive.google.com/open?id=1yCkCEJ8Rk9JSAgwiHhB4bUt6h2FsDBrTVP602tAX8Kg
+
+https://drive.google.com/open?id=1hdG6GKgXp401YEaBy3tveMi-sST4q4hsdqn1zr7F71k
+
+npm install -g create-react-app
+
+npm view react version :- TO check The react view version
+
+
+Project Flow:- index-->App
