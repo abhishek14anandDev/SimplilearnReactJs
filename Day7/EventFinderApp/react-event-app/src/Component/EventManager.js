@@ -91,15 +91,9 @@ class EventManager extends React.Component{
                         
                         </div>
                 
-            {/* Id: <input type="number" ref="id" /> */}
-            {/* eventName: <input type="text" ref="eventName"/>
-            location: <input type="text" ref="location"/>
-            guest: <input type="text" ref="guest"/>
-            date: <input type="date" ref="date"/> */}
+           
             </div>
-            {/* <button onClick={()=>this.AddEvents() } className="btn btn-success">Add Events</button>
-            <button onClick={()=>this.EditEvents() } className="btn btn-success">Edit Events</button>
-            <button onClick={()=>this.DeletEvents() } className="btn btn-success">Delete Event</button>{this.state.msg} */}
+           
             
 
                 <table className="table table-bordered table-hover">
