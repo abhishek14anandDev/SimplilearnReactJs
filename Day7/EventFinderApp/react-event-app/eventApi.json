@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1001,
+      "fname": "Abhishek",
+      "password": "abh1234",
+      "age": 27
+    },
+    {
+      "id": 1002,
+      "pname": "Shobha",
+      "gender": "sho1234",
+      "age": 28
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "eventName": "Event1",
+      "location": "V1",
+      "guest": "",
+      "date": "04-06-2020"
+    },
+    {
+      "id": 2,
+      "eventName": "Event2",
+      "location": "V2",
+      "guest": "",
+      "date": "04-06-2020"
+    },
+    {
+      "id": 3,
+      "eventName": "Independence day",
+      "location": "Townhall",
+      "guest": "Kiran kumar",
+      "date": "2020-08-15"
+    }
+  ]
+}

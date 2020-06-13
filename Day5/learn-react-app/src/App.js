@@ -20,6 +20,7 @@ import ListGroup from './Component/ListGroup';
 import Formsdemo from './Component/FormDemo';
 import LifeCycle from './Component/LifeCycle';
 import WebApiDemo from './Component/WebApiDemo';
+import RouteEx01 from './Component/RouteEx01';
 
 function App() {
   var s1 = {id:1,"name": "Abhishek","Course":"React"};
@@ -62,13 +63,13 @@ function App() {
   </div>        
  
 </div>
-
-<ButtonDemo/>
+<RouteEx01/>
+{/* <ButtonDemo/>
 <ListGroup/>
       <EmpployeeDetails/>
       <Formsdemo/>
       <LifeCycle/>
-      <WebApiDemo/>
+      <WebApiDemo/> */}
       {/* <ArrayComp/>
       <RadioButtonGender/>
       <Calculation/>

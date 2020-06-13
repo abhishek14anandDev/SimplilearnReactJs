@@ -1,5 +1,7 @@
 https://docs.google.com/document/d/1VyC991SkXaFw23yTfIDuuPGk5XJqa_xG3OrwVWa-Qlo/edit?usp=sharing
 
+https://docs.google.com/document/d/1wRC4zEzrbODljHfUfjYB43kV0fHDeunw2t6LczqEAl0/edit?usp=sharing // Day6
+
 bootstrap cdns
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
