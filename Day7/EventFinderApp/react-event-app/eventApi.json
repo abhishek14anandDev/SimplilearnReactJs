@@ -16,10 +16,10 @@
   "events": [
     {
       "id": 1,
-      "eventName": "Event1",
-      "location": "V1",
-      "guest": "",
-      "date": "04-06-2020"
+      "eventName": "Diwali",
+      "location": "Patna town hall",
+      "guest": "Nitish Kumar",
+      "date": "2021-01-26"
     },
     {
       "id": 2,
@@ -34,6 +34,20 @@
       "location": "Townhall",
       "guest": "Kiran kumar",
       "date": "2020-08-15"
+    },
+    {
+      "id": 4,
+      "eventName": "Republic day",
+      "location": "Patna town hall",
+      "guest": "Nitish Kumar",
+      "date": "2021-01-26"
+    },
+    {
+      "id": 5,
+      "eventName": "Diwali",
+      "location": "Patna town hall",
+      "guest": "Nitish Kumar",
+      "date": "2021-01-26"
     }
   ]
 }

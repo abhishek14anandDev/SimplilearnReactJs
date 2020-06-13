@@ -71,17 +71,37 @@ class EventManager extends React.Component{
         var event = this.state.events;
         return(
             <div className="container">
+            
+            <div className="wrapper fadeInDown">
 
+            <div><div className="divEvent">
+
+            
+                        <input type="number" id="login" className="form-control psswd" name="login" ref="id" placeholder="Id"/>
+                        <input type="text" id="eventName" className="form-control psswd" name="eventName" ref="eventName" placeholder="eventName"/>
+                        <input type="text" id="location" className="form-control psswd" name="location" ref="location" placeholder="location"/>
+                        <input type="text" id="guest" className="form-control psswd" name="guest" ref="guest" placeholder="guest name"/>
+                        <input type="date" id="date" className="form-control psswd" name="date" ref="date" placeholder="DATE"/>
+                        </div>
+                        <div>
+                        <input type="submit"  value="Add Events" onClick={()=>this.AddEvents()}/>
+                        <input type="submit"  value="Edit Events" onClick={()=>this.EditEvents()}/>
+                        <input type="submit"  value="Delete Events" onClick={()=>this.DeletEvents()}/>
+                        </div>
+                        
+                        </div>
                 
-            Id: <input type="number" ref="id"/>
-            eventName: <input type="text" ref="eventName"/>
+            {/* Id: <input type="number" ref="id" /> */}
+            {/* eventName: <input type="text" ref="eventName"/>
             location: <input type="text" ref="location"/>
             guest: <input type="text" ref="guest"/>
-            date: <input type="date" ref="date"/>
-
-            <button onClick={()=>this.AddEvents() } className="btn btn-success">Add Events</button>
+            date: <input type="date" ref="date"/> */}
+            </div>
+            {/* <button onClick={()=>this.AddEvents() } className="btn btn-success">Add Events</button>
             <button onClick={()=>this.EditEvents() } className="btn btn-success">Edit Events</button>
-            <button onClick={()=>this.DeletEvents() } className="btn btn-success">Delete Event</button>{this.state.msg}
+            <button onClick={()=>this.DeletEvents() } className="btn btn-success">Delete Event</button>{this.state.msg} */}
+            
+
                 <table className="table table-bordered table-hover">
                     <thead>
                         <tr>

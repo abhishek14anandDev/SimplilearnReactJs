@@ -8,7 +8,7 @@ class EventRoute extends React.Component{
     render(){
         return (
             <div>
-            <h1>Routing Demo</h1>
+            <h1>Event Finder App</h1>
            
             <Router>
             
